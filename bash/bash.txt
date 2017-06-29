@@ -5,6 +5,9 @@ Hello world!
 Hello world!
 Hello world!
 Hello Android!
+Hello JAVA!
+Hello world!
+>>>>>>> fix hello world to hello java
 Hello world!
 Hello world!
 Hello world!
