@@ -1,0 +1,3 @@
+if (java){
+	system.out.println("Hello java");
+}
