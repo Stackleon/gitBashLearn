@@ -1,0 +1,4 @@
+if(ANdroid){
+
+	log.i("Hello world");
+}
